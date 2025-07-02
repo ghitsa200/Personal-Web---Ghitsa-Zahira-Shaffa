@@ -1,6 +1,7 @@
 # Personal-Web---Ghitsa-Zahira-Shaffa
 Personal Web Ghitsa Zahira Shaffa menggunakan PHP, MYSQL, HTML, dan TAILWIND CSS
 
+
 ****1.** Halaman Administrator** adalah tampilan utama bagi admin untuk mengelola konten website secara efisien. Dengan desain sederhana dan responsif, halaman ini dilengkapi menu navigasi di sisi kiri, sambutan ramah di tengah, serta panel statistik yang menampilkan jumlah artikel dan galeri.
 
 <img width="650" alt="admin" src="https://github.com/user-attachments/assets/bb5e4502-c2b2-406c-ab23-b5e73d6c50bd" />
@@ -15,6 +16,7 @@ d. Menu Navigasi Samping berisi tautan ke Beranda, Kelola Artikel, Kelola Galler
 
 e. Footer di bagian bawah memuat hak cipta dan nama pembuat situs, menambahkan identitas pribadi dengan tampilan yang rapi dan serasi dengan header.
 
+
 ****2.** Halaman Kelola Artikel** merupakan bagian dari dashboard admin yang digunakan untuk mengatur seluruh artikel dalam website. Pada halaman ini, admin dapat melihat daftar artikel yang telah dibuat, lengkap dengan isi kontennya. Admin juga dapat menambah artikel baru, mengedit artikel yang sudah ada, atau menghapus artikel yang tidak diperlukan, sehingga pengelolaan konten menjadi lebih fleksibel dan efisien.
 
 <img width="650" alt="kelola artikel" src="https://github.com/user-attachments/assets/fafb3cfe-5a3d-495e-ab43-bcc289113ace" />
@@ -26,6 +28,7 @@ b. Tabel Artikel menyajikan daftar artikel dalam format tabel yang rapi dan info
 c. Tombol Tambah Artikel terletak di pojok kanan atas tabel dan berwarna pink mencolok, membuatnya mudah ditemukan oleh admin. Dengan satu klik, admin dapat menambahkan artikel baru melalui form yang telah disediakan, menjadikan proses input konten berjalan cepat dan praktis.
 
 d. Menu Navigasi Samping (Sidebar Menu) tetap hadir di sisi kiri halaman dan menampilkan pilihan menu seperti Beranda, Kelola Artikel, Kelola Gallery, About, dan Logout. Pada halaman ini, menu "Kelola Artikel" tampil tebal untuk menandakan bahwa halaman tersebut sedang aktif, sehingga membantu orientasi pengguna selama berada di dashboard.
+
 
 ****3.** Halaman Kelola Gallery** merupakan fitur admin yang berfungsi untuk mengelola seluruh koleksi gambar yang ditampilkan di website. Halaman ini memungkinkan admin untuk menambahkan gambar baru, serta mengedit atau menghapus gambar yang sudah ada secara mudah dan cepat.
 
@@ -39,6 +42,7 @@ c. Tombol Tambah Gambar terletak di pojok kanan atas halaman dan ditampilkan den
 
 d. Menu Navigasi Samping (Sidebar Menu) tetap sama seperti halaman lainnya, berisi pilihan Beranda, Kelola Artikel, Kelola Gallery, About, dan Logout. Pada halaman ini, menu “Kelola Gallery” ditandai dengan huruf tebal untuk menunjukkan bahwa pengguna sedang berada di halaman tersebut.
 
+
 ****4.** Halaman Kelola About** adalah bagian dari sistem admin yang digunakan untuk menampilkan dan mengatur informasi pribadi pemilik website. Halaman ini memungkinkan admin untuk memperbarui bagian "Tentang Saya" agar selalu relevan dan mencerminkan identitas diri dengan jelas.
 
 <img width="650" alt="about" src="https://github.com/user-attachments/assets/793e13b2-e54d-4ba4-bf99-0066c29c6295" />
@@ -51,6 +55,7 @@ c. Tombol Tambah Data berada di pojok kanan atas dan berwarna pink terang. Tombo
 
 d. Menu Navigasi Samping (Sidebar Menu) tetap konsisten seperti halaman lainnya dengan daftar menu: Beranda, Kelola Artikel, Kelola Gallery, About, dan Logout. Menu “About” ditampilkan dengan huruf tebal, menandakan halaman yang sedang aktif.
 
+
 ****5.** Halaman Login Administrator** merupakan gerbang utama bagi pengguna dengan hak akses admin untuk masuk ke sistem pengelolaan website. Halaman ini menampilkan formulir login yang sederhana namun fungsional, dengan tata letak yang bersih dan latar belakang gradasi pink yang lembut, menciptakan kesan ramah dan profesional.
 
 <img width="650" alt="login" src="https://github.com/user-attachments/assets/1a791af8-c56d-4747-8540-ea18f5716399" />
@@ -60,6 +65,7 @@ a. Form Login terdiri dari dua bidang input, yaitu Username dan Password, yang h
 b. Desain Formulir menggunakan kotak putih dengan sudut membulat, bayangan halus, dan penempatan elemen yang terpusat. Hal ini memberi kesan minimalis dan modern, memudahkan fokus pengguna saat hendak masuk ke sistem.
 
 c. Footer Halaman menampilkan copyright “© 2025 – Ghitsa Zahira Shaffa” di bagian bawah form login, yang menunjukkan identitas pembuat website sekaligus memperkuat unsur personal dan orisinalitas halaman.
+
 
 ****6.** Halaman Artikel** adalah bagian publik dari personal web yang menampilkan konten-konten terbaru yang ditulis oleh pemilik website. Halaman ini menyajikan tulisan secara rapi dan mudah dibaca, sehingga pengunjung dapat langsung memahami isi dan tema dari setiap artikel yang dibagikan.
 
@@ -71,6 +77,7 @@ b. Artikel Terbaru disusun dalam bentuk list vertikal dengan judul berwarna pink
 
 c. Daftar Artikel ditampilkan di sisi kanan dalam bentuk daftar tautan (list) dari semua artikel yang telah dipublikasikan. Fitur ini memudahkan pengunjung untuk melihat seluruh isi artikel tanpa perlu menggulir terlalu jauh, sekaligus memberi akses cepat untuk membaca topik tertentu.
 
+
 ****7.** Halaman Gallery** berfungsi sebagai ruang visual yang menampilkan dokumentasi kegiatan-kegiatan penting. Judul “Gallery | Ghitsa Zahira Shaffa” ditampilkan di bagian atas dengan warna putih di atas latar pink cerah, memberikan kesan segar dan konsisten dengan tema website.
 
 <img width="650" alt="galery" src="https://github.com/user-attachments/assets/3f5c991f-3ada-4e2b-9837-c7e0cc059f9b" />
@@ -80,6 +87,7 @@ a. Navigasi Utama tersedia dalam bentuk menu horizontal: Artikel, Gallery, About
 b. Judul Seksi “Galeri Foto” ditampilkan di tengah halaman, berwarna pink dan tebal, memberi penekanan bahwa ini adalah area utama untuk melihat koleksi gambar kegiatan.
 
 c. Kartu Galeri ditampilkan dalam grid tiga kolom yang rapi, berisi foto-foto kegiatan seperti MAKARB 2024, HIMASI CUP 2025, dan PPKMB 2024. Setiap gambar diberi label teks di bawahnya dengan judul kegiatan dalam warna pink mencolok agar mudah dikenali dan menarik perhatian pengunjung.
+
 
 ****8.** Halaman About Me** merupakan bagian penting yang memperkenalkan pemilik web secara personal. Judul “About Me | Ghitsa Zahira Shaffa” ditampilkan dengan tegas di bagian atas halaman, menggunakan warna putih yang kontras dengan latar pink, memperkuat identitas pemilik web.
 
